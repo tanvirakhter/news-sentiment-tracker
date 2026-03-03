@@ -1,0 +1,6 @@
+feed,url,http_status,content_type,entries_count,bozo,error
+BBC,https://feeds.bbci.co.uk/news/rss.xml,200,text/xml; charset=utf-8,38,0,
+The Verge,https://www.theverge.com/rss/index.xml,200,application/xml; charset=UTF-8,10,0,
+Hacker News,https://news.ycombinator.com/rss,200,application/rss+xml; charset=utf-8,30,0,
+NYTimes Home,https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml,200,application/xml,28,0,
+WSJ World,https://feeds.a.dj.com/rss/RSSWorldNews.xml,200,application/rss+xml;charset=UTF-8,20,0,
