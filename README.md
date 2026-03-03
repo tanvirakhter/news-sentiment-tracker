@@ -49,6 +49,8 @@ python main.py
 
 ```
 ## ▶️ How to Run
+
+```bash
 news-sentiment-tracker/
 │
 ├── main.py
@@ -57,3 +59,4 @@ news-sentiment-tracker/
 ├── .gitignore
 └── outputs/
 
+```
